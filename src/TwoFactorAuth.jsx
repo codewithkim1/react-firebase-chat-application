@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+qqimport React, { useState } from 'react';
 import firebase from 'firebase/app';
 import 'firebase/auth';
 
@@ -70,3 +70,7 @@ const TwoFactorAuth = () => {
 };
 
 export default TwoFactorAuth;
+
+
+
+qq
